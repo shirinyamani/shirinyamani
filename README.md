@@ -18,4 +18,4 @@
 - 😄 Happy Coding!
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=shirin1996&layout=compact)](https://github.com/shirin1996/github-readme)
-[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shirin1996&theme=white-orange)](https://github.com/shirin1996/github-readme-streak-stats)
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=shirin1996&theme=white-orange&layout=compact)](https://github.com/shirin1996/github-readme-streak-stats)
