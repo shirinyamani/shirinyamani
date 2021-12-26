@@ -1,9 +1,9 @@
 <h1> Shirin Yamani </h1>
 
-<a href="https://www.linkedin.com/in/shirin-yamani/"><img src="https://img.icons8.com/color/30/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/Shirinyamani"><img src="https://img.icons8.com/color/30/000000/twitter.png" alt="twitter"/></a>
-<a href="https://www.facebook.com/shirin.yamani.9/"><img src="https://img.icons8.com/color/30/000000/facebook.png" alt="facebook"/></a>
-<a href="mailto:yamanishirin85@gmail.com"><img src="https://img.icons8.com/color/30/000000/gmail.png" alt="email"/></a>
+<a href="https://www.linkedin.com/in/shirin-yamani/"><img src="https://img.icons8.com/color/37/000000/linkedin.png" alt="linkedin"/></a>
+<a href="https://twitter.com/Shirinyamani"><img src="https://img.icons8.com/color/37/000000/twitter.png" alt="twitter"/></a>
+<a href="https://www.facebook.com/shirin.yamani.9/"><img src="https://img.icons8.com/color/37/000000/facebook.png" alt="facebook"/></a>
+<a href="mailto:yamanishirin85@gmail.com"><img src="https://img.icons8.com/color/37/000000/gmail.png" alt="email"/></a>
 
 - 💻 My current research is **NLP**.
 - 🌱 I’m currently reading [**Deep Learning**](https://www.deeplearningbook.org).
