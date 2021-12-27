@@ -12,5 +12,5 @@
 
 <div>
   <img width="45%" align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=shirin1996&show_icons=true&locale=en&layout=compact" alt="shirin1996" />
-  <img width="50%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shirin1996&" alt="shirin1996" />
+  <img width="45%"  src="https://github-readme-streak-stats.herokuapp.com/?user=shirin1996&" alt="shirin1996" />
 </div>
