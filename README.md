@@ -7,7 +7,7 @@
 
 - 💻 My current research is **NLP**.
 - 🌱 I’m currently reading [**Deep Learning**](https://www.deeplearningbook.org).
-- 📫 Feel free to email me at: yamanishirin85@gmail.com
+- 📫 Feel free to email me at: **yamanishirin85@gmail.com**
 - 😄 **Happy Coding!**
 
 <div>
