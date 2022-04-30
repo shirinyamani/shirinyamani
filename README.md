@@ -1,10 +1,12 @@
 <h1> Shirin Yamani </h1>
 
-[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fhejazizo%2Fshirinyamani&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Profile+Views&edge_flat=false)](https://hits.seeyoufarm.com)
+[![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirinyamani/)
+[![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/shirinyamani)
+[![Medium](https://github.com/Rishit-dagli/Rishit-dagli/blob/master/badges/medium.svg)](https://medium.com/@shirinyamani)
+[![Website Badge](https://img.shields.io/badge/-Website-c14438?style=flat&logo=Google-Chrome&logoColor=white&link=https://www.hejazizo.com)](https://www.hejazizo.com)
+[![Instagram Badge](https://img.shields.io/badge/-Instagram-purple?logo=instagram&logoColor=white&link=https://instagram.com/ali.hejazzii/)](https://www.instagram.com/shirin____mn)
+[![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:yamanishirin85@gmail.com)
 
-<a href="https://www.linkedin.com/in/shirinyamani/"><img src="https://img.icons8.com/color/37/000000/linkedin.png" alt="linkedin"/></a>
-<a href="https://twitter.com/Shirinyamani"><img src="https://img.icons8.com/color/37/000000/twitter.png" alt="twitter"/></a>
-<a href="mailto:yamanishirin85@gmail.com"><img src="https://img.icons8.com/color/37/000000/gmail.png" alt="email"/></a>
 
 - 💻 My current research is **NLP**.
 - 🌱 I’m currently reading [**NLP with Transformers 🤗**](https://transformersbook.com/) and [**Deep Learning**](https://www.deeplearningbook.org).
