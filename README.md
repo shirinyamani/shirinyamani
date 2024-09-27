@@ -1,5 +1,3 @@
-<h1> Shirin Yamani </h1>
-
 [![Linkedin](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/shirinyamani/)
 [![Twitter Badge](https://img.shields.io/badge/-Twitter-1da1f2?labelColor=1da1f2&logo=twitter&logoColor=white&link=https://twitter.com/mrr_zo)](https://twitter.com/shirinyamani)
 [![notion](https://img.shields.io/badge/Notion-000000?style=flat&logo=notion&logoColor=white)](https://lofty-geometry-16a.notion.site/Transformer-from-scratch-9a25fd2a3f8f43319aa7c87a7f2e2c14)
@@ -14,12 +12,6 @@
 - 📖 Chech out my blog on Transformers on Notion at [**All you need to know about Transformers 😈**](https://www.notion.so/Transformer-from-scratch-9a25fd2a3f8f43319aa7c87a7f2e2c14)
 - 📫 How to reach me: **shiriin.yamani@gmail.com**
 - 😄 **Happy Coding!**
-
-<h1>  🖥 Skills </h1>
-
-- Machine Learning
-- Deep Learning
-- Natural Language Processing
 
 ## ⚙️ Tech Stack
 
