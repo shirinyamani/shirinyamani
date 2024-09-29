@@ -1,5 +1,1 @@
-- 💻 My current research is **LLMs😈**.
-- 🌱 I’m currently reading [**Hands-on Large Language Models**](https://learning.oreilly.com/library/view/hands-on-large-language/9781098150952/ch05.html) by [Jay Alammar](https://jalammar.github.io/about/). 
-- 📖 Chech out my blog on Transformers on Notion at [**All you need to know about Transformers 😈**](https://www.notion.so/Transformer-from-scratch-9a25fd2a3f8f43319aa7c87a7f2e2c14)
-- 📫 How to reach me: **shiriin.yamani@gmail.com**
-- 😄 **Happy Coding!**
+Flirting with LLMs. If I say stupid stuff it's not me it's my prompt!!
